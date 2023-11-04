@@ -3,4 +3,4 @@ window.alert('Hello,World!')
 window.confirm('Clique ok para continuar') 
 //window.confirm --> caixa de confirmação
 window.prompt('Eu sou um bom progamador?') 
-//window.confirm --> caixa de interação
+//window.prompt --> caixa de interação
