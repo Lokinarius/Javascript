@@ -1,12 +1,12 @@
 
 var nome = window.prompt('Qual o seu nome?')
 window.alert('Olá, ' + nome + ', é um prazer lhe conhecer!')
-document.write(`Hello, ${nome} !`)
-document.write(`Seu nome tem ${nome.length} letras`)
+document.write(`Hello, ${nome} ! <br/> `)
+document.write(`Seu nome tem ${nome.length} letras <br/>`)
 //.length = quantos caracteres uma string tem
-document.write(`Seu nome em maisculo é ${nome.toUpperCase}`)
-//.toUpperCase = tudo em maisculo
-//.toLowerCase = tudo em minusculo
+document.write(`Seu nome em maisculo é ${nome.toUpperCase()} <br/>`)
+//.toUpperCase() = tudo em maisculo
+//.toLowerCase() = tudo em minusculo
 var n1 = Number(window.prompt('Digite um número:'))
 var n2 = Number(window.prompt('Digite outro número:'))
 //Adição = (number + number)
