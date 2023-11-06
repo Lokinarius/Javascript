@@ -1,0 +1,15 @@
+body{
+    color: green;
+    background-color: black;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+div#area{
+    color: white;
+    font-weight: bolder;
+    background: gray;
+    width: 200px;
+    height: 200px;
+    line-height: 200px;
+    text-align: center;
+}

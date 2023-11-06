@@ -1,0 +1,12 @@
+body{
+    color: green;
+    background-color: black;
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+}
+
+input{
+    background-color: gray;
+    color: white;
+    font-family: 'Courier New', Courier, monospace;
+}
