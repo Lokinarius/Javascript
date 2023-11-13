@@ -67,7 +67,7 @@ function verificar(){
         res.style.textAlign = ' center'
         res.style.alignContent = 'center'
         res.innerHTML = `Detectamos ${genero} com ${idade} anos.`
-        document.getElementById("res").style.display = "block";
         res.appendChild(img)
+        document.getElementById("foto").style.display = "block";
     }
 }
